@@ -1,0 +1,21 @@
+Buyer_Name,Property_Name,Room_Viewed,Time_Spent,Engagement_Score,Sentiment,Predicted_Close
+Maria Khan,Oceanfront Villa,Balcony,180,95,Happy,99
+Raj Patel,Skyview Apartment,Kitchen,40,55,Neutral,20
+Aisha Roy,Oceanfront Villa,Living Room,120,88,Excited,85
+John Mathew,City Loft,Bedroom,90,72,Curious,60
+Neha Sharma,Skyview Apartment,Balcony,150,90,Happy,93
+David Lee,Oceanfront Villa,Pool Area,200,98,Excited,99
+Priya Nair,City Loft,Living Room,70,68,Calm,50
+Aman Gupta,Skyview Apartment,Bedroom,95,80,Interested,75
+Fatima Noor,Oceanfront Villa,Kitchen,60,65,Neutral,40
+Chris Wong,Oceanfront Villa,Balcony,190,97,Excited,98
+Ananya Sen,City Loft,Balcony,130,85,Happy,88
+Vikram Joshi,Skyview Apartment,Pool Area,140,82,Curious,80
+Sophia Dsouza,Oceanfront Villa,Living Room,160,92,Excited,95
+Karan Mehta,City Loft,Bedroom,50,60,Neutral,30
+Emily Tan,Oceanfront Villa,Pool Area,210,99,Excited,99
+Rohit Verma,Skyview Apartment,Living Room,100,75,Interested,70
+Sara Ali,Oceanfront Villa,Balcony,185,96,Happy,97
+James Park,City Loft,Kitchen,45,58,Neutral,25
+Pooja Bedi,Oceanfront Villa,Bedroom,110,87,Calm,82
+Mohammed Iqbal,Skyview Apartment,Balcony,155,89,Happy,90
